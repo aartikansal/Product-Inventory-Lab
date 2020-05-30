@@ -13,6 +13,10 @@ public class Sneaker {
     public Sneaker(int expectedId, String expectedName, String expectedBrand, String expectedSport, int expectedQty, float expectedPrice) {
     }
 
+    public Sneaker(int i, String name, String brand, String sport, int size, int quantity, float price) {
+
+    }
+
     public Sneaker() {
 
     }
@@ -46,6 +50,11 @@ public class Sneaker {
     public float getPrice() {
         return price;
     }
+
+    public float getSize() {
+        return size;
+    }
+
 }
 
 
