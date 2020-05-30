@@ -2,12 +2,12 @@ package models;
 
 public class Sneaker {
 
-    int id;
-    String name;
-    String brand;
-    String sport;
-    float size;
-    int qty;
-    float price;
+    private int id;
+    private String name;
+    private String brand;
+   private String sport;
+    private float size;
+    private int qty;
+    private float price;
 }
 
