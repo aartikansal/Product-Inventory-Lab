@@ -23,7 +23,7 @@ public class ChocolateTest {
         // (2)
         int expectedId = 6;
         String expectedName = "Twist";
-        String expectedBrand = "Cadburys";
+        String expectedBrand = "Nestle";
         int expectedQty = 100;
         float expectedPrice = 9.00f;
 
